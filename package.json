@@ -21,8 +21,16 @@
     "express",
     "typescript"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuvi90/template-node-express.git"
+  },
   "author": "Yuvraj Gill",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuvi90/template-node-express.git/issues"
+  },
+  "homepage": "https://github.com/yuvi90/template-node-express.git#readme",
   "dependencies": {
     "apicache": "^1.6.3",
     "axios": "^1.4.0",
